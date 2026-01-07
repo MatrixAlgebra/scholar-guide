@@ -39,15 +39,15 @@
 - 18 -> Gravity Rush (shift+x)
 - 19 -> Golden Boon (hotkey 4)
 - 20 -> Particle Acceleration (hotkey 5)
-![skill ui](skill_ui_guide.png)
+<img src="skill_ui_guide.png" />
 #### Skill Add-ons
 ##### PvE
-![pve addons](scholar_pve_addons.PNG)
+<img src="scholar_pve_addons.PNG" />
 ##### PvP - 1v1
-![pvp1v1 addons](scholar_pvp_1v1_addons.PNG)
+<img src="scholar_pvp_1v1_addons.PNG" />
 ##### PvP - NodeWar
+<img src="scholar_pvp_nodewar_addons.PNG" />
 
-![pvp nodewar addons](scholar_pvp_nodewar_addons.PNG)
 #### Movement
 - w+c > c
 - shift+q
