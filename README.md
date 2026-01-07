@@ -1,24 +1,24 @@
-## Matrix's Scholar Notes
+# Matrix's Scholar Notes
 
-#### Core: Hammer Smash
+## Core: Hammer Smash
 
-#### Lock
+## Lock
 - Awakening
 	- Flow: Golden Blockade V
 - BSR
 	- Absolute: Potential Energy
-#### Skill Enhancement
+
+## Skill Enhancement
 - Gravity Rush
 - Golden Path
 - Golden Boon
-#### Hotbar
+## Hotbar
 - 1 -> Flow: Repulsion (lmb after certain skills)
 - 2 -> Absolute: Gravity Press (main skill)
 - 4 -> Golden Boon (skill enhancement)
 - 5 -> Particle Acceleration (main skill)
 - 6 -> Whale Tendon Potion
-
-#### Skill Cooldown Slots
+## Skill Cooldown Slots
 - 1 -> One Small Step (w+f)
 - 2 -> Hammerdown (w+rmb)
 - 3 -> Hammer Rush (w+c)
@@ -39,16 +39,23 @@
 - 18 -> Gravity Rush (shift+x)
 - 19 -> Golden Boon (hotkey 4)
 - 20 -> Particle Acceleration (hotkey 5)
+
 <img src="skill_ui_guide.png" />
-#### Skill Add-ons
-##### PvE
+
+## Skill Add-ons
+### PvE
+
 <img src="scholar_pve_addons.PNG" />
-##### PvP - 1v1
+
+### PvP - 1v1
+
 <img src="scholar_pvp_1v1_addons.PNG" />
-##### PvP - NodeWar
+
+### PvP - NodeWar
+
 <img src="scholar_pvp_nodewar_addons.PNG" />
 
-#### Movement
+## Movement
 - w+c > c
 - shift+q
 - w+f
@@ -56,7 +63,9 @@
 - shift+a/d/w
 - shift+s x2
 - q x2
-#### CC's
+
+## CC's
+
 - Knockdown
 	- Drop Kick (f)
 	- Golden Blockade (e after hammer in the Knee (w+e))
@@ -69,7 +78,9 @@
 - Floating
 	- Golden Pillar (rmb after hammer strike (rmb))
 - Grapple - Gravity's Grip (shift+e)
-#### Utility
+
+## Utility
+
 - Ignore Movespeed Down
 	- Golden Boon (hotbar rabam)
 - HP Recovery on hit
@@ -105,7 +116,9 @@
 	- Hammer throw (s+f)
 	- Gravity Crush (shift+x)
 	- Gravity Distortion (rabam hotbar)
-#### Combos
+
+## Combos
+
 - Pre-buff
 	- w+e > e > (hold) e > (optional for dr) w+f
 - PvE
@@ -116,7 +129,9 @@
 	- 1v1
 		- shift+e (grab) > w+e > (hold) e > shift+lmb > c > s+lmb > space > shift+rmb/shift+c
   - more combos todo
-#### Notes
+
+## Notes
+
 - Cancels
 	- Make sure you have spacebar or c to cancel out of Hammer Spin (shift+c)
 		- You can bait grabs in shift+c and instantly spacebar to iframe it and possibly kd
