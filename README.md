@@ -39,15 +39,15 @@
 - 18 -> Gravity Rush (shift+x)
 - 19 -> Golden Boon (hotkey 4)
 - 20 -> Particle Acceleration (hotkey 5)
-![[skill_ui_guide.png]]
+!(skill ui)[skill_ui_guide.png]
 #### Skill Add-ons
 ##### PvE
-![[scholar_pve_addons.PNG]]
+!(pve addons)[scholar_pve_addons.PNG]
 ##### PvP - 1v1
-![[scholar_pvp_1v1_addons.PNG]]
+!(pvp1v1 addons)[scholar_pvp_1v1_addons.PNG]
 ##### PvP - NodeWar
 
-![[scholar_pvp_nodewar_addons.PNG]]
+!(pvp nodewar addons)[scholar_pvp_nodewar_addons.PNG]
 #### Movement
 - w+c > c
 - shift+q
@@ -59,7 +59,7 @@
 #### CC's
 - Knockdown
 	- Drop Kick (f)
-	- Golden Blockade (e after hammer in the Knee (w+e)) <-- CHECK
+	- Golden Blockade (e after hammer in the Knee (w+e))
 	- Golden Thunder (spacebar)
 - Stiffness
 	- Hammer Throw (s+f)
@@ -67,7 +67,7 @@
 - Knockback
 	- Attraction (2nd q)
 - Floating
-	- Golden Pillar (rmb after hammer strike (rmb)) <-- CHECK
+	- Golden Pillar (rmb after hammer strike (rmb))
 - Grapple - Gravity's Grip (shift+e)
 #### Utility
 - Ignore Movespeed Down
@@ -115,6 +115,7 @@
 		- Engage - shift+q > space > shift+c > s+e > s+lmb > lmb > space > gtfo
 	- 1v1
 		- shift+e (grab) > w+e > (hold) e > shift+lmb > c > s+lmb > space > shift+rmb/shift+c
+  - more combos todo
 #### Notes
 - Cancels
 	- Make sure you have spacebar or c to cancel out of Hammer Spin (shift+c)
