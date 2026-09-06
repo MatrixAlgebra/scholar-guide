@@ -73,6 +73,8 @@
 - For PvP you usually just want to use the Uncapped set, but theres also Glass/Rock
 ![[scholar_crystals.png]]
 <img src="scholar_crystals.png" />
+
+
 ## Movement
 - w+c > c
 - shift+q
