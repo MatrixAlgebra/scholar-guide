@@ -68,6 +68,11 @@
 <img src="scholar_pvp_nodewar_addons.PNG" />
 ![[scholar_pvp_nodewar_addons.PNG]]
 
+## Crystals
+- Can go with generic T1/T2/Siege crystals, but I like to add in more hp recovery / jump height / extra HP for survivability
+- For PvP you usually just want to use the Uncapped set, but theres also Glass/Rock
+![[scholar_crystals.png]]
+<img src="scholar_crystals.png" />
 ## Movement
 - w+c > c
 - shift+q
